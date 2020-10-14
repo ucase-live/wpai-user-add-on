@@ -1,0 +1,9 @@
+{
+  "name": "ucase-live/wpai-user-add-on",
+  "type": "ucase-live",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x.x"
+    }
+  }
+}
